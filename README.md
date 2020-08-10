@@ -3,7 +3,14 @@
 The HTML Iframe viewer for web games.   
 
 # To Run
-Download https://github.com/Raccon123/Project-iframe/tree/V2-1/Dashbord_v1'1_L1 and open the  HTML file in it.
+Download 
+Dashboard_V1'1_L1_.html
+Dashboard_V1'1_L1_.css
+Dashboard_V1'1_L1_.js 
+jquery-3.5.1.min.js
+
+# Then Open 
+Dashboard_V1'1_L1_.html
 
 
 
